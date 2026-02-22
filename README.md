@@ -220,6 +220,3 @@ Displayed rounded to 2 decimals.
 - Weekly/monthly analytics
 - Better filtering and sorting
 - Packaging as runnable `.jar` or installer
-
-## License
-This project is for educational/portfolio use.
